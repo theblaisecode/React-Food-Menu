@@ -6,7 +6,7 @@ import item5 from "./img/item-5.jpeg"
 import item6 from "./img/item-6.jpeg"
 import item7 from "./img/item-7.jpeg"
 import item8 from "./img/item-8.jpeg"
-import item9 from "./img/item-8.jpeg"
+import item9 from "./img/item-9.jpeg"
 
 const menu = [
   {
