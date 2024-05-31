@@ -1,7 +1,7 @@
 # React Food Menu
 Simple practice project using ReactJS & Vite
 
-Live Website - https://theblaisecode.github.io/React-Food-Menu/
+Live Website - https://theblaisecode.github.io/React-Food-Menu
 
 <br/>
 
